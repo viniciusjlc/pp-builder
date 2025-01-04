@@ -4,7 +4,7 @@ import exemplo.classes.*;
 
 public class Main {
 
-	public static void main(String[] args) {
+	public static void main(String args[]) {
 		Veiculo v = new Veiculo();
 		Director director = new Director();
 
